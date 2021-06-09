@@ -12,5 +12,5 @@ Using Github for version control.
 Visual Studio - Ide by Microsoft.
 
 # Authors
-Michael Ternovsky.
-Ofir Ben Ezra.
+- Michael Ternovsky.
+- Ofir Ben Ezra.
